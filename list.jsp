@@ -116,7 +116,6 @@ a:active { color: black;} /* 클릭 */
         </li>
       </ul>
     </div>
-
     <div>
       <ul class="listsize_ul">
         <li class="listsize_li">
